@@ -1,7 +1,7 @@
 ### Hi, I'm Erick Cunha (:
 <p><em> I am a back-end developer with a passion for coding and learning new tech.</a> </em></p> 
 <p align="left">
-  Languages and Skills: <strong>Python, Django, Flask, HTML, CSS</strong>
+  Languages and Skills: <strong>Python, Django, Flask, Selenium, HTML, CSS</strong>
 </p>
 
 
